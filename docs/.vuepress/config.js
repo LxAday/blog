@@ -62,7 +62,7 @@ module.exports = {
         // 项目开始时间
         startYear: '2020',
         //git地址
-        repo: 'Lucky-Aday/blog',
+        repo: 'LxAday/blog',
         // 如果你的文档不在仓库的根部
         docsDir: 'docs',
         // 可选，默认为 master
